@@ -1,0 +1,4 @@
+github.com/lucasb-eyer/go-colorful v0.0.0-20181028223441-12d3b2882a08 h1:5MnxBC15uMxFv5FY/J/8vzyaBiArCOkMdFT9Jsw78iY=
+github.com/lucasb-eyer/go-colorful v0.0.0-20181028223441-12d3b2882a08/go.mod h1:NXg0ArsFk0Y01623LgUqoqcouGDB+PwCCQlrwrG6xJ4=
+github.com/saesh/mandelbrot v0.0.0-20181215175219-48d1de20dee1 h1:y8vQtyYZtlfXABrTOzBCVs2KBmLgCUgs1KTVwaJnlSU=
+github.com/saesh/mandelbrot v0.0.0-20181215175219-48d1de20dee1/go.mod h1:SpiDuaj91tiZQo3vTJ3PPAbfaXTiVXQmJEjbOYmeQKo=
